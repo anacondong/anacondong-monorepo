@@ -1,0 +1,10 @@
+{
+  "name": "anacondong-monorepo-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/anacondong-monorepo-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["anacondong-monorepo"],
+  "// targets": "to see all targets run: nx show project anacondong-monorepo-e2e --web",
+  "targets": {}
+}
